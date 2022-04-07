@@ -8,16 +8,35 @@ html {
 }
 */
 
-/* Inserta el carrusel al inicio de la página*/
+
 .carousel {
     position:absolute;
     top:0;
+    width: 100%;
+    z-index: auto;
 }
 
-/* Inserta el navbar arriba del carrusel*/
 .navbar {
     position:absolute;
     top:15px;
     z-index:10;
     width: 100%;
+}
+
+#relleno {
+	height: 940px;
+}
+
+h1 {
+	color: #ee9b00;
+}
+
+i {
+	font-size: 30px;
+	width: 100%;
+	background-color: #ee9b00;
+}
+
+.presentacion {
+	background-color: #e9d8a6;
 }
