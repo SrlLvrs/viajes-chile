@@ -27,12 +27,18 @@ html {
 	height: 940px;
 }
 
-h1 {
-	color: #94d2bd;
+h1, h2, h5 {
+	color: #32a1ad;
+	font-weight: 700;
 }
 
 i {
 	font-size: 30px;
 	width: 100%;
-	background-color: #94d2bd;
+	background-color: #32a1ad;
+}
+
+#boton {
+	background-color: #32a1ad;
+	color: #FFFFFF;
 }
