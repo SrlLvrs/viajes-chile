@@ -2,6 +2,11 @@
 	font-family: 'Quicksand', sans-serif;
 }
 
+.mostrar-al-lado {
+	display: inline-block;
+	vertical-align: middle;
+}
+
 /*
 html {
   scroll-behavior: smooth;
@@ -39,6 +44,11 @@ i {
 }
 
 #boton {
+	background-color: #32a1ad;
+	color: #FFFFFF;
+}
+
+footer{
 	background-color: #32a1ad;
 	color: #FFFFFF;
 }

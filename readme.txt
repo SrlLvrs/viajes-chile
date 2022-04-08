@@ -6,3 +6,4 @@ Lista de commits:
 4.- Creación de la sección de presentación con 3 párrafos y correción de los elementos absolute
 5.- Creación de cards, cambio de color en la sección anterior
 6.- Creación del formulario de contacto
+7.- Creación del footer
