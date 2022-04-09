@@ -7,29 +7,20 @@
 	vertical-align: middle;
 }
 
-/*
 html {
   scroll-behavior: smooth;
 }
-*/
 
-
-.carousel {
-    position:absolute;
-    top:0;
-    width: 100%;
-    z-index: auto;
+/*Ubica al carrusel al inicio del documento*/
+header {
+    position:relative;
+    top:-70px;
 }
 
+/*Ubica el navbar por encima del carrusel*/
 .navbar {
-    position:absolute;
     top:15px;
     z-index:10;
-    width: 100%;
-}
-
-#relleno {
-	height: 940px;
 }
 
 h1, h2, h5 {
@@ -51,4 +42,5 @@ i {
 footer{
 	background-color: #32a1ad;
 	color: #FFFFFF;
+	box-sizing: border-box;
 }

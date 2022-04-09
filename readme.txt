@@ -7,3 +7,7 @@ Lista de commits:
 5.- Creación de cards, cambio de color en la sección anterior
 6.- Creación del formulario de contacto
 7.- Creación del footer
+8.- Correción de pequeños detalles. Commit final antes de subir.
+
+El tooltip está en el botón del formulario
+Añadí también un alert cuando se presiona dicho botón
