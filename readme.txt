@@ -11,3 +11,9 @@ Lista de commits:
 
 El tooltip está en el botón del formulario
 Añadí también un alert cuando se presiona dicho botón
+
+El enlace del proyecto en Github es
+https://github.com/SrlLvrs/viajes-chile
+
+El enlace del proyecto en Github Pages es
+https://srllvrs.github.io/viajes-chile/
